@@ -25,10 +25,8 @@ Build a functional AI chatbot that:
 DecodeLabs-Project1-RuleBasedAI-Chatbot/
 │
 ├── chatbot.py               ← Main chatbot script
-├── rules.py                 ← Rule definitions and response logic
 ├── requirements.txt         ← Required Python packages
 ├── README.md                ← Project documentation (this file)
-└── sample_output.png        ← Screenshot of chatbot in action
 ```
 
 ---
@@ -130,18 +128,6 @@ Bot: Goodbye! Have a great day. 👋
 | Fallback for unknown inputs | ✅ |
 | Clean, commented code | ✅ |
 | README documentation | ✅ |
-
----
-
-## 👤 Author
-
-| Field        | Detail                          |
-|--------------|---------------------------------|
-| Name         | *[Your Full Name]*              |
-| Batch        | DecodeLabs 2026                 |
-| Track        | Artificial Intelligence         |
-| Project      | 1 — Rule-Based AI Chatbot       |
-| Submitted    | *[Submission Date]*             |
 
 ---
 
