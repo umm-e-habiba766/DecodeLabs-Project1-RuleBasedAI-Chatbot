@@ -1,0 +1,13 @@
+# ============================================================
+#  DecodeLabs | Project 1 | Rule-Based AI Chatbot
+#  Requirements File
+# ============================================================
+
+# No external libraries required
+# This project uses Python built-in modules only:
+#   - re       (regular expressions for pattern matching)
+#   - string   (string operations)
+#   - random   (random response selection)
+
+# Python version required:
+# python >= 3.10
