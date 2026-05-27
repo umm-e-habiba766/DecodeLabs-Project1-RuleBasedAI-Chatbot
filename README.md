@@ -1,17 +1,5 @@
 # 🤖 Project 1 — Rule-Based AI Chatbot
 
-<div align="center">
-
-![DecodeLabs](https://img.shields.io/badge/DecodeLabs-Industrial%20Training-2A9D8F?style=for-the-badge)
-![Batch](https://img.shields.io/badge/Batch-2026-1B3A5C?style=for-the-badge)
-![Project](https://img.shields.io/badge/Project-1%20of%205-E8632A?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-
-**Industrial Training Kit | Batch 2026 | Powered by DecodeLabs**
-
-</div>
-
----
 
 ## 📌 Project Overview
 
@@ -157,14 +145,4 @@ Bot: Goodbye! Have a great day. 👋
 
 ---
 
-## 🏢 About DecodeLabs
 
-**DecodeLabs** is an industrial training platform empowering the next generation of AI engineers through hands-on project-based learning.
-
-📞 +91 89330 06408 &nbsp;|&nbsp; ✉ decodelabs.tech@gmail.com &nbsp;|&nbsp; 🌐 www.decodelabs.tech
-
----
-
-<div align="center">
-<sub>DecodeLabs Industrial Training Kit | Batch 2026 | Project 1 of 5</sub>
-</div>
