@@ -67,7 +67,7 @@ Python 3.10 or higher
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/DecodeLabs-Project1-RuleBasedAI-Chatbot.git
+git clone https://github.com/umm-e-habiba766/DecodeLabs-Project1-RuleBasedAI-Chatbot.git
 
 # Navigate into the folder
 cd DecodeLabs-Project1-RuleBasedAI-Chatbot
